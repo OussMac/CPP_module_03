@@ -1,7 +1,7 @@
 #include "ClapTrap.hpp"
 
 
-int main() {
+int main(void) {
     ClapTrap ct1("TrapOne");
     ClapTrap ct2;
 
